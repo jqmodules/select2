@@ -1,14 +1,11 @@
 {
-  "name":
-  "ivaynberg/select2",
+  "name": "jqmodules/select2",
   "description": "Select2 is a jQuery based replacement for select boxes.",
-  "version": "3.5.2",
-  "type": "component",
+  "type": "library",
   "homepage": "http://ivaynberg.github.io/select2/",
   "license": "Apache-2.0",
   "require": {
-    "robloach/component-installer": "*",
-    "components/jquery": ">=1.7.1"
+    "webmodules/jquery": ">=2.1.5"
   },
   "extra": {
     "component": {

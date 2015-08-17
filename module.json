@@ -1,0 +1,7 @@
+{
+  "name": "jqmodules/select2",
+  "jqmodules/select2": {
+    "css": ["select2.css"],
+    "js": ["select2.js"]
+  }
+}
